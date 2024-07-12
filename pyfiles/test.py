@@ -1,5 +1,6 @@
 from trigonometry import sin
 import math
+import numpy as np
 
 pi = math.pi
 print('pi:', pi)
